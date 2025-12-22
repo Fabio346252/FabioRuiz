@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabio-rn&label=Profile%20views&color=0e75b6&style=flat" alt="fabio-rn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fabio-RN" alt="Fabio-RN" /></a> </p>
-
+[![trophies](https://github-profile-trophy.vercel.app/?username=Fabio-RN)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **ASP.NET, HTML,JAVASCRIPT, CSS**
 

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, HTML,JAVASCRIPT, CSS**
 
-- 👨‍💻 All of my projects are available at [[Fabio-RN.github.io](Fabio-RN.github.io)](https://fabio-rn.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Fabio-RN.github.io](Fabio-RN.github.io)](https://fabio-rn.github.io/portfolio/)
 
 - 💬 Ask me about **C#, Python, Git, Powershell**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi,my name is Fabio</h1>
+<h1 align="center">Hi, my name is Fabio</h1>
 <h3 align="center">I’m a Full-Stack Junior developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabio-rn&label=Profile%20views&color=0e75b6&style=flat" alt="fabio-rn" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, HTML,JAVASCRIPT, CSS**
 
-- 👨‍💻 All of my projects are available at [Fabio-RN.github.io](Fabio-RN.github.io)
+- 👨‍💻 All of my projects are available at [[Fabio-RN.github.io](Fabio-RN.github.io)](https://fabio-rn.github.io/portfolio/)
 
 - 💬 Ask me about **C#, Python, Git, Powershell**
 

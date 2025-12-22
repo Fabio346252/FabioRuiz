@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabio-rn" alt="fabio-rn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fabio_rnnn" target="blank"><img src="https://img.shields.io/twitter/follow/fabio_rnnn?logo=twitter&style=for-the-badge" alt="fabio_rnnn" /></a> </p>
 
 - 🌱 I’m currently learning **ASP.NET, HTML,JAVASCRIPT, CSS**
 
